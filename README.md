@@ -9,9 +9,10 @@
 
 Each warden must submit a mitigation review for *every High and Medium finding* from the parent contest. **Incomplete mitigation reviews will not be eligible for awards.**
 
-[ ⭐️ SPONSORS ADD INFO HERE ]
-
 ## Findings being mitigated
+
+[ ⭐️ C4 STAFF TODO: ADD LIST OF HIGH AND MEDIUM ISSUES HERE ]
+[ Scope for Gogopool: 6 Highs, 21 Medium, TBC ]
 
 Mitigations of all High and Medium issues will be considered in-scope and listed here.
 
@@ -19,9 +20,13 @@ Mitigations of all High and Medium issues will be considered in-scope and listed
 
 ## Overview of changes
 
+[ ⭐️ SPONSORS TODO ]
+
 Please provide context about the mitigations that were applied if applicable and identify any areas of specific concern.
 
 ## Mitigations to be reviewed
+
+[ ⭐️ SPONSORS TODO ]
 
 Wherever possible, mitigations should be provided in separate pull requests, one per issue. If that is not possible (e.g. because several audit findings stem from the same core problem), then please link the PR to all relevant issues in your findings repo. 
 
