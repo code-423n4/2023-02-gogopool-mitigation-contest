@@ -1,7 +1,7 @@
 # Gogopool - Mitigation contest details
 - Total Prize Pool: $32,000 USDC
 - [Warden guidelines for C4 mitigation reviews](https://code4rena.notion.site/Guidelines-for-Versus-mitigation-reviews-ed10fc5cfbf640bd8dcec66f38b343c4)
-- Submit findings [using the C4 form](https://code4rena.com/contests/YYYY-MM-sponsorName-mitigation-contest/submit)
+- Submit findings [using the C4 form](https://code4rena.com/contests/2023-02-gogopool-versus-mitigation-contest/submit)
 - Starts February 10, 2023 20:00 UTC
 - Ends February 17, 2023 20:00 UTC
 
