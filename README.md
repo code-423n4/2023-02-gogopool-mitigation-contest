@@ -67,7 +67,7 @@ Without further ado, here's our biggest changes to look out for:
 | https://github.com/multisig-labs/gogopool/pull/25 | H-01          | New variable to track validating avax                                         |
 | Not fixing                                        | H-02          | N/A                                                                           |
 | https://github.com/multisig-labs/gogopool/pull/41 | H-03          | Base slash on validation period not full duration                             |
-| https://github.com/multisig-labs/gogopool/pull/23 | H-04          | Atomically recreate minipool to now allow hijack                              |
+| https://github.com/multisig-labs/gogopool/pull/23 | H-04          | Atomically recreate minipool to not allow hijack                              |
 | https://github.com/multisig-labs/gogopool/pull/49 | H-05          | Initialize ggAVAX with a deposit                                              |
 | https://github.com/multisig-labs/gogopool/pull/41 | H-06          | If staked GGP doesn't cover slash amount, slash it all                        |
 | https://github.com/multisig-labs/gogopool/pull/22 | M-01          | Pause startRewardsCycle when protocol is paused                               |
